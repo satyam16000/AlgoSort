@@ -10,7 +10,8 @@ AlgoSort is a web app for visualizing a bunch of different sorting algorithms Li
 
 ## Demo GIF
 
-![App GIF]<br/>
+![App GIF]![algosort](https://github.com/satyam16000/AlgoSort/assets/137890455/4ecae11e-96ce-4b9b-bac5-a36b469cdc3b)
+<br/>
 
 ## Installation
 
