@@ -17,7 +17,7 @@ AlgoSort is a web app for visualizing a bunch of different sorting algorithms Li
 Cloning the repository:
 
 ```bash
-$ git clone https://github.com/r-bhanu/AlgoSort.git
+$ git clone https://github.com/satyam16000/AlgoSort.git
 $ cd AlgoSort
 ```
 start the application on http://localhost:3000/
